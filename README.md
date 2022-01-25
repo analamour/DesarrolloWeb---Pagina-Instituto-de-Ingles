@@ -1,2 +1,2 @@
-# TrabajoPracticoTaller1Grupo7
-trabajo practico taller
+Desarrollo Web - Pagina Your Own Way 
+HTML - CSS - Javascript 
